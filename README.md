@@ -1,11 +1,11 @@
-Descrição:
+# Descrição:
 
 Por se tratar de um programa de computador protegido por direitos autorais, recomenda-se que qualquer utilização de conteúdos derivados seja devidamente referenciada, em conformidade com as normas acadêmicas vigentes e os princípios de integridade científica.
 
 Link do Progama de computador:
 https://painel-vida-cid-10-x60-x84-observatorio-integrado-ep2rmozqtg5y.streamlit.app/
 
-Autores: 
+## Autores: 
 
 Profa. Dra. Erika Fialho Morais Xavier; https://orcid.org/0000-0002-8217-7891
 
@@ -17,11 +17,11 @@ Prof. Dr. Vladimir Costa de Alencar; ORCID: https://orcid.org/0009-0006-9411-673
 
 Prof. Dr. Jader da Silva Jale; ORCID: https://orcid.org/0000-0001-7414-1154
 
-Como citar:
+## Como citar:
 
 Xavier, Erika Fialho Morais et al. PAINEL-VIDA-CID-10-X60-X84 – Observatório Integrado.  Programa de computador. Registro INPI  nº BR512025006140-4, 2025.
 
-PAINEL-VIDA-CID-10-X60-X84
+# PAINEL-VIDA-CID-10-X60-X84 – Observatório Integrado
 
 O PAINEL-VIDA-CID-10-X60-X84 – Observatório Integrado foi concebido como uma plataforma analítica voltada ao monitoramento e à investigação dos registros de autolesão classificados nos códigos X60–X84 da CID-10. A solução foi estruturada para integrar diferentes abordagens estatísticas e visuais em um único ambiente interativo, permitindo que pesquisadores, gestores públicos e profissionais da saúde explorem os dados de forma dinâmica e sistematizada. O sistema reúne visualizações interativas, análises descritivas, comparações regionais, séries temporais e matrizes de correlação, possibilitando a identificação de padrões espaciais e temporais associados às ocorrências de autolesão ao longo dos anos.
 
