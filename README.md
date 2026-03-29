@@ -5,7 +5,9 @@ Por se tratar de um programa de computador protegido por direitos autorais, reco
 Link do Progama de computador:
 https://painel-vida-cid-10-x60-x84-observatorio-integrado-ep2rmozqtg5y.streamlit.app/
 
-Autores: Profa. Dra. Erika Fialho Morais Xavier; https://orcid.org/0000-0002-8217-7891
+Autores: 
+
+Profa. Dra. Erika Fialho Morais Xavier; https://orcid.org/0000-0002-8217-7891
 
 Denilson de Oliveira Silva; ORCID: https://orcid.org/0009-0000-4031-7772
 
